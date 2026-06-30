@@ -103,29 +103,6 @@ The age distribution indicated that most passengers were between **20 and 40 yea
 ### Correlation Analysis
 
 The correlation matrix highlighted positive and negative relationships among numerical variables. Passenger class showed a noticeable relationship with survival, while age exhibited only a weak correlation.
----
-
-## Project Structure
-
-```
-PRODIGY_DS_02/
-│
-├── data/
-│   └── titanic.csv
-│
-├── images/
-│   ├── missing_values_heatmap.png
-│   ├── survival_distribution.png
-│   ├── survival_by_gender.png
-│   ├── survival_by_class.png
-│   ├── age_distribution.png
-│   └── correlation_matrix.png
-│
-├── notebook/
-│   └── Task_02.ipynb
-│
-└── README.md
-```
 
 ---
 
